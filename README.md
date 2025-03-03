@@ -9,7 +9,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - [Node.js](https://nodejs.org/) (versión 19 o superior recomendada)
 - [npm](https://www.npmjs.com/)
 
-## Pasos a seguir
+## Pasos para ejecutar la aplicación
 
 ### 1. Clonar el repositorio
 
@@ -40,6 +40,14 @@ npm run start
 ```
 
 El proyecto estará disponible en [http://localhost:3000](http://localhost:3000)
+
+## Pasos para ejecutar pruebas
+
+### 1. Ejecutar pruebas
+
+```bash
+npm run test
+```
 
 ## Notas sobre la implementación
 
